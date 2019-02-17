@@ -3,7 +3,21 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
+ARKitten/
 Assets/AssetStoreTools*
+Assets/Animation
+Assets/Materials
+Assets/Meshes
+Assets/Prefabs
+Assets/Scenes
+Assets/Scripts
+Assets/Shaders
+Assets/Textures
+Assets/FREE\ Food\ Pack/
+Assets/FREE\ Food\ Pack.meta
+Assets/Yughues\ Fabric\ Materials/
+Assets/Yughues\ Fabric\ Materials.meta
 
 # Visual Studio cache directory
 .vs/
